@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonTNelsonKC
 - 👀 I’m interested in logic problems
-- 🌱 I’m currently learning C++
+- 🌱 I'm currently working on refining my knowledge of data structures, programming various adts in C++.  In addition I'm learning HTML, CSS, and JavaScript on th side.
 - 📫 How to reach me jontnelsonkc@gmail.com
 
 <!---
